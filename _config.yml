@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     清风眩huafans[http://weibo.com/207131305]
+weibo_username:     清风眩huafans
 zhihu_username:     清风眩
 github_username:    chuang2016
 twitter_username:   liu_chuang
-#facebook_username:  huxpro
+facebook_username:  Chuang Liu
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -51,7 +51,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: 
+disqus_username: chuang2016
 
 # Netease settings
 netease_comment: false
@@ -93,8 +93,8 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "刘闯-博客",
+        href: "https://chuang2016.github.io"
     },{
         title: "前端外刊评论",
         href: "http://qianduan.guru/"
