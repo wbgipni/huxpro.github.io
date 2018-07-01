@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      ""WBG-IPNI-Dr.LIU/刘毅研究员"
+title:      "WBG-IPNI-Dr.LIU/刘毅研究员"
 subtitle:   "个人研究介绍"
 date:       2018-06-30 11:00:00
-author:     "Chuang"
+author:     "Chuang liu"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
 header-mask: 0.3
 catalog:    true
